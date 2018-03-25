@@ -28,13 +28,27 @@
 
       
 ### Build up all the settings:
-- Medium Page
-- Github page
-- Kaggle Competition arrangement
-- Meeting Venue
-- Bootcamp
-  - Promotions
-  - hard deadline for dry-run
+- [ ] Medium Page (Vincent)
+- [x] Github page
+  - [p] Organized content
+- [ ] Kaggle Competition/Social Impactful Project arrangement
+  - [x] **Date**: Thursday
+  - [ ] Starting day: 
+- [ ] Meeting Venue
+- [ ] Bootcamp
+  - [x] time: May19,20,22
+  - [ ] place: Ooosh LCK (San), or another co-working space (Kin) PolyU [IEEE San]
+  - [ ] in-charge: Kin/Pong
+  - [ ] Promotions: 
+    - [ ] Promotion Start Date [One-month ahead??]
+    - [ ] channels:
+      - [p] eventbrite
+      - [ ] U Soc. 
+    - [ ] banner:[free poster design: San]
+    - [ ] update in meetup page
+    - [ ] update in Github page
+  - [ ] hard deadline for **dry-run**: Apr 28, 29, May 1
+
   
 
 
