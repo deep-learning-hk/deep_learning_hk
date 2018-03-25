@@ -28,28 +28,40 @@
 
       
 ### Build up all the settings:
-- [ ] Medium Page (Vincent)
+- Medium Page
+  - [x] Page decoration (Kin)
+  - [ ] first meaning post (Pong)
 - [x] Github page
   - [p] Organized content
-- [ ] Kaggle Competition/Social Impactful Project arrangement
+- Kaggle Competition/Social Impactful Project arrangement
   - [x] **Date**: Thursday
-  - [ ] Starting day: 
-- [ ] Meeting Venue
-- [ ] Bootcamp
+  - [x] Starting day: May 24
+  - [x] Meeting Venue: Ooosh KT / another (Kin)
+- [ ] DL Meeting Venue:
+- Bootcamp
   - [x] time: May19,20,22
-  - [ ] place: Ooosh LCK (San), or another co-working space (Kin) PolyU [IEEE San]
-  - [ ] in-charge: Kin/Pong
-  - [ ] Promotions: 
-    - [ ] Promotion Start Date [One-month ahead??]
+  - [ ] place:
+    - Ooosh LCK (San),
+    - or another co-working space (Kin), PolyU [IEEE San]
+  - [p] in-charge: Kin/Pong
+  - Promotions: 
+    - [x] Promotion Start Date [One-month ahead: April 12]
+    - [ ] content (text & pics): 
     - [ ] channels:
-      - [p] eventbrite
-      - [ ] U Soc. 
+      - [p] eventbrite (Kin)
+      - [ ] U Societies (San: CUHK)
     - [ ] banner:[free poster design: San]
     - [ ] update in meetup page
     - [ ] update in Github page
-  - [ ] hard deadline for **dry-run**: Apr 28, 29, May 1
-
+  - [x] hard deadline for **dry-run**: Apr 28, 29, May 1
+  - [ ] Bootcamp Agenda (3 days run down)
+  - [ ] Bootcamp materials/hand-out material
+    - [p] Summary of every lecture (Incharges)
+    - [p] Explanations of difficult terms and references (Incharges)
   
+Content:
+This……..
+
 
 
 # 2018-03-11
@@ -91,3 +103,5 @@
   - DexNet (Grasping NN)
 ### Vincent:
   - Change the face (Sijal)
+
+
